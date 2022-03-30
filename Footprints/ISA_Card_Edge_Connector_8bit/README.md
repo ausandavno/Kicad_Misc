@@ -3,7 +3,7 @@ A Kicad footprint describing the 8-bit ISA card edge connector.
 
 ## Revision 1:
 - Added F.Mask and B.Mask areas over card edge fingers, so they do not need to be added manually on a board design.
-- Added some distance measurements to the "Eco2.User" layer, as well as a suggested grid spacing, to make it easier to set the edge connector width.
+- Added some distance measurements to the "Eco2.User" layer, as well as a suggested grid spacing, to make it easier to set the edge connector width on the Edge.Cuts layer.
 
 ![Rev1 Image](../ISA_Card_Edge_Connector_8bit/Images/ISA_Card_Edge_Connector_8bit_Rev1.PNG)
 
